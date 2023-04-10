@@ -2,6 +2,8 @@
 ## _Rick And Morty REST API_
 
 
+![Imagen de la parte header de la pagina.](src\assets\2023-04-10 13_23_07-Window.png)
+
 
 
 ## Features
