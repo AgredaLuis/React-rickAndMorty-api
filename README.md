@@ -2,7 +2,7 @@
 ## _Rick And Morty REST API_
 
 
-![Imagen de la parte header de la pagina.](https://github.com/AgredaLuis/React-rickAndMorty-api/blob/main/src/assets/react.svg)
+![Imagen de la parte header de la pagina.](https://github.com/AgredaLuis/React-rickAndMorty-api/blob/main/src/assets/Foto-de-Header.png)
 
 
 
